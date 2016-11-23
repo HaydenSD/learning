@@ -1,2 +1,3 @@
-# learning
+# Learning
 My repo for all of the stuff I am learning.
+
