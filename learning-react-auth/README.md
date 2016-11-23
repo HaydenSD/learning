@@ -8,4 +8,4 @@ https://scotch.io/tutorials/build-a-react-app-with-user-authentication
 
 ## Current Place:
 
-https://scotch.io/tutorials/build-a-react-app-with-user-authentication#master-page
+https://scotch.io/tutorials/build-a-react-app-with-user-authentication#registration-page

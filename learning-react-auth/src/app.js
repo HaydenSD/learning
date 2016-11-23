@@ -8,6 +8,8 @@ ReactStormpath.init();
 ReactDOM.render(
   <Router history={browserHistory}>
     <Route path='/' component={MasterPage}>
+      <IndexRoute component={IndexRoute} />
+      <LoginRouter path='/login' component={LoginPage} />
     </Route>
   </Router>,
   document.getElementById('app-container')
