@@ -7,6 +7,8 @@ ReactStormpath.init();
 
 ReactDOM.render(
   <Router history={browserHistory}>
+    <Route path='/' component={MasterPage}>
+    </Route>
   </Router>,
   document.getElementById('app-container')
 )
